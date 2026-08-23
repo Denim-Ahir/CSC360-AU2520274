@@ -206,6 +206,34 @@ Example:
 origin  git@github.com:Denim-Ahir/CSC360-AU2520274.git (fetch)
 origin  git@github.com:Denim-Ahir/CSC360-AU2520274.git (push)
 ```
+---
+
+# Git Workflow
+
+Git was used throughout the project to manage the local repository and synchronize it with the GitHub repository.
+
+The basic workflow used was:
+
+```text
+GitHub repository
+       ↓
+   git clone
+       ↓
+Local repository
+       ↓
+Edit / create files
+       ↓
+   git status
+       ↓
+     git add
+       ↓
+   git status
+       ↓
+   git commit
+       ↓
+   git push
+       ↓
+GitHub repository
 
 ---
 
