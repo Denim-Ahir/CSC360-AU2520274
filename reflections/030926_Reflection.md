@@ -1,4 +1,4 @@
-# CSC360 — Session 07 Reflection
+# CSC360 — Session 08 Reflection
 **Date:** 03 September 2026
 
 ## Topics Covered
